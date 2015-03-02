@@ -1,9 +1,9 @@
 {
-  "name": "nice_hacker_news",
-  "title": "nice_hacker_news",
+  "name": "hacker-news-plus-plus",
+  "title": "Hacker News++",
   "id": "jid1-Q6KU2Swhd5fG4w",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
+  "description": "Improves your Hacker News reading experience",
+  "author": "Jarques, Tadas Tamošauskas",
+  "license": "MIT",
   "version": "0.1"
 }
