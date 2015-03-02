@@ -10,6 +10,6 @@ The CSS is taken from [jarques' Hacker-News-- extention for Chrome](https://gith
 
 ## Instalation
 
-Download the [xpi file](https://github.com/tadast/Firefox-Hacker-News-plus-plus/raw/master/hacker-news-plus-plus.xpi) and open it with Firefox.
+You can install it [via Mozilla](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-1/)(recommended) or directly by downloading the [xpi file](https://github.com/tadast/Firefox-Hacker-News-plus-plus/raw/master/hacker-news-plus-plus.xpi) and opening it with Firefox.
 
 (Will update when I publish this on the Firefox add-on store)
